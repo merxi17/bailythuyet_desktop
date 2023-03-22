@@ -1,0 +1,15 @@
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\bin\Debug\bailythuyet.exe.config
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\bin\Debug\bailythuyet.exe
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\bin\Debug\bailythuyet.pdb
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.csproj.AssemblyReference.cache
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.Form1.resources
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.Properties.Resources.resources
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.csproj.GenerateResource.cache
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.csproj.CoreCompileInputs.cache
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.exe
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.pdb
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.frm2.resources
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.Form3.resources
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.Form4.resources
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.Form5.resources
+C:\Users\new user\source\repos\bailythuyet\bailythuyet\obj\Debug\bailythuyet.Form6.resources
